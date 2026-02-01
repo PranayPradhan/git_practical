@@ -1,2 +1,7 @@
 # git_practical
-Workshop file
+
+## Workshop on Git
+
+Host: Deoashish Dane 
+Company: Barclays Investment Bank
+Position: Assistant VP (Vice President) - 9 years
